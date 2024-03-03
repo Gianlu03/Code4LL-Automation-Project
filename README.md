@@ -11,6 +11,7 @@ In this way, the machine can move inside an Hypothetical warehouse and interact 
 More details and pictures about the project are available at group_documents/final_relation.pdf
 (documentation in Italian)
 
+Contact me if interested in the Unity project
 
 (http://www.xion-srl.it/) - Xion Technology
 (https://www.istitutogobetti.edu.it/) - I.S.S "Piero Gobetti"
