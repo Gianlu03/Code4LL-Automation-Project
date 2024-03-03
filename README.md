@@ -6,7 +6,10 @@ The activity consisted of simulating the foundation of a little IT company in gr
 
 My group's goal was to develop a machine based on a Raspberry Pi 4, which can gather information about the required movements issued by a human operator and carry them out.
 Actions are provided through a 3D application developed in Unity (C#), which sends information to an SQL Server database. The Raspberry Pi collects the data from the database(Python).
-In this way, the machine can move inside an Hypothetical warehouse and interact with packages arranged on different shelves.(Interaction with packages only in application)
+In this way, the machine can move inside an Hypothetical warehouse and interact with packages arranged on different shelves.(Interaction with packages only in application).
+
+More details and pictures about the project are available 
+(documentation in Italian)
 
 
 (http://www.xion-srl.it/) - Xion Technology
