@@ -8,7 +8,7 @@ My group's goal was to develop a machine based on a Raspberry Pi 4, which can ga
 Actions are provided through a 3D application developed in Unity (C#), which sends information to an SQL Server database. The Raspberry Pi collects the data from the database(Python).
 In this way, the machine can move inside an Hypothetical warehouse and interact with packages arranged on different shelves.(Interaction with packages only in application).
 
-More details and pictures about the project are available 
+More details and pictures about the project are available at group_documents/final_relation.pdf
 (documentation in Italian)
 
 
