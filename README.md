@@ -1,6 +1,6 @@
 # Code4LL-Automation-Project
 Group automation project realised in order participate in a scolarship offered by Xion Technology to the students of fifth year of secondary school in
-"I.S.S Piero Gobetti", IT course. 
+"I.S.S Piero Gobetti", IT course in 2021-2022. 
 
 The activity consisted of simulating the foundation of a little IT company in groups of 5 people, each group had to develop a project from zero.
 
